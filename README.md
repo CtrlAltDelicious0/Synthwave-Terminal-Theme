@@ -10,7 +10,7 @@
 
 ### Oh My Posh
 - https://ohmyposh.dev/
-- Use my modified theme of **quick-term**, get it [here](https://github.com/CtrlAltDelicious0/Synthwave-Terminal-Theme/blob/main/.%20Quick%20Term%20Theme/quick-term.omp.json)
+- Use my modified theme of **quick-term**, get it [here](https://github.com/CtrlAltDelicious0/synthwave-terminal-theme/blob/main/.%20Quick%20Term%20Theme/quick-term.omp.json)
 - Download it then replace the original : `C:\Users\AppData\Local\Programs\oh-my-posh\themes\quick-term.omp.json`
 - Open up your oh-my-posh profile then paste this in:
 ```
