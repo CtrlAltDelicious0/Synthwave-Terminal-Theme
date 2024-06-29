@@ -6,7 +6,7 @@
 
 ### Windows Terminal Themes
 - https://windowsterminalthemes.dev/
-- Install **synthwave-everything** by [@RobbOwen](https://github.com/robb0wen) to your Windows Terminal
+- Install **synthwave-everything** by [RobbOwen](https://github.com/robb0wen) to your Windows Terminal
 
 ### Oh My Posh
 - https://ohmyposh.dev/
@@ -24,5 +24,5 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/quick-term.omp.json" | Invo
 - Download **FiraCode Nerd Font** and use it in your terminal
 
 ## Credits
-- [@RobbOwen](https://github.com/robb0wen)
+- [RobbOwen](https://github.com/robb0wen)
 - [Original quick-term theme](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/quick-term.omp.json)
